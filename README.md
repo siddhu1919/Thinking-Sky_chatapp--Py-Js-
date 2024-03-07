@@ -71,4 +71,4 @@ And that's it! Your app should now be up and running! 🎉🎉🎉
 
 ## Dive In! 🌊
 
-Now that you've got everything set up, it's time to dive in and start connecting with people from all around the globe. Whether it's text, images, or files, ChatApp brings everyone closer together. Enjoy exploring this space where anyone can connect with anyone. Happy chatting! 💬🌐
+Now that you've got everything set up, it's time to dive in and start connecting with people from all around the globe. Whether it's text, images, or files, Thinking Sky brings everyone closer together. Enjoy exploring this space where anyone can connect with anyone. Happy chatting! 💬🌐
