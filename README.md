@@ -1,0 +1,27 @@
+# 📱 Thinkimg Sky: Connect With Anyone, Anywhere! 🌍
+
+Welcome to our ChatApp, a dynamic platform built with Python and React (JavaScript) that allows users to interact publicly. With this app, anyone can connect with anyone else, making the world a smaller, more accessible place. 🚀 Plus, it's not just about text; you can also send images, files, and more to keep the conversation going. 📸📁
+
+## Prerequisites 📋
+
+Before diving into the world of endless chatting, make sure you have these tools ready on your machine:
+
+- Python 3.6+
+- Node.js
+- vite js
+- npm (usually comes with Node.js)
+
+## Getting Started 🚀
+
+1. **Clone the Repo**: First up, grab a copy of our codebase by cloning this repo to your local machine.
+
+2. **Navigate Through Folders**: You'll find two main directories:
+   - `backend`
+   - `frontend`
+
+### Setting Up the Backend 🛠️
+
+1. **Jump into the Backend**: Navigate to the `backend` folder.
+2. **Virtual Environment**: Set up a Python virtual environment to keep things tidy.
+3. **Install Requirements**: Install the Python requirements to get all the necessary packages.
+4. **Fire Up the Server**: Open a new PowerShell/CMD window in your IDE (VSCode recommended) and launch the server with:
