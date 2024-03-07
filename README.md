@@ -50,9 +50,15 @@ uvicorn main:app --reload --port 3001
 - Create a **PRIVATE_KEY** by signing up for a free account at [ChatEngine.io](https://chatengine.io/).
 - Create a project, go to its settings, and copy your Private Key.
 - ![image](https://github.com/siddhu1919/Thinking-Sky_chatapp--Py-Js-/assets/85176765/bfbcbc07-0632-4f9f-bd83-9756f346bf2f)
+- ![image](https://github.com/siddhu1919/Thinking-Sky_chatapp--Py-Js-/assets/85176765/09db329c-9196-41a8-9f83-7e350fa4b13a)
 
 
 ### Setting Up the Frontend 🎨
 
 1. **Connect to Chat Engine**: All we need here is to add our Project ID as `VITE_CHAT_ENGINE_PROJECT_ID` within `frontend/.env.local`.
+- ![image](https://github.com/siddhu1919/Thinking-Sky_chatapp--Py-Js-/assets/85176765/7292f686-62e6-47a8-8ffb-fbf6b64d1743)
+
 2. **Create `.env.local` File**: Within the `frontend` directory, create a `.env.local` file and populate it with your project ID like so:
+(Replace `...` with your actual project ID).
+
+3. **Run the App**: With everything in place, run the following command in a new terminal window:
