@@ -1,4 +1,4 @@
-# 📱 Thinkimg Sky: Connect With Anyone, Anywhere! 🌍
+# 📱 Thinking Sky: Connect With Anyone, Anywhere! 🌍
 
 Welcome to our ChatApp, a dynamic platform built with Python and React (JavaScript) that allows users to interact publicly. With this app, anyone can connect with anyone else, making the world a smaller, more accessible place. 🚀 Plus, it's not just about text; you can also send images, files, and more to keep the conversation going. 📸📁
 
