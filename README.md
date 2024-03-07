@@ -49,6 +49,8 @@ uvicorn main:app --reload --port 3001
 5. **Connect to Chat Engine**: Head over to `main.py` to connect our backend to the Chat Engine.
 - Create a **PRIVATE_KEY** by signing up for a free account at [ChatEngine.io](https://chatengine.io/).
 - Create a project, go to its settings, and copy your Private Key.
+- ![image](https://github.com/siddhu1919/Thinking-Sky_chatapp--Py-Js-/assets/85176765/bfbcbc07-0632-4f9f-bd83-9756f346bf2f)
+
 
 ### Setting Up the Frontend 🎨
 
