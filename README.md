@@ -2,6 +2,13 @@
 
 Welcome to our ChatApp, a dynamic platform built with Python and React (JavaScript) that allows users to interact publicly. With this app, anyone can connect with anyone else, making the world a smaller, more accessible place. 🚀 Plus, it's not just about text; you can also send images, files, and more to keep the conversation going. 📸📁
 
+![image](https://github.com/siddhu1919/Thinking-Sky_chatapp--Py-Js-/assets/85176765/abca2f5c-ad66-42e2-95d6-754cbcdb3d36)
+![image](https://github.com/siddhu1919/Thinking-Sky_chatapp--Py-Js-/assets/85176765/d6b45b90-fe51-4f89-b7f2-9d90d7187e34)
+![image](https://github.com/siddhu1919/Thinking-Sky_chatapp--Py-Js-/assets/85176765/b7cc9bf3-4654-4bf4-8e15-2c27472dfd40)
+![image](https://github.com/siddhu1919/Thinking-Sky_chatapp--Py-Js-/assets/85176765/f002c425-7797-4619-b7f1-c5b8daf960e9)
+
+
+
 ## Prerequisites 📋
 
 Before diving into the world of endless chatting, make sure you have these tools ready on your machine:
