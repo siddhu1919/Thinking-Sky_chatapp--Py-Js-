@@ -62,3 +62,13 @@ uvicorn main:app --reload --port 3001
 (Replace `...` with your actual project ID).
 
 3. **Run the App**: With everything in place, run the following command in a new terminal window:
+   
+```bash
+npm run dev
+```
+
+And that's it! Your app should now be up and running! 🎉🎉🎉
+
+## Dive In! 🌊
+
+Now that you've got everything set up, it's time to dive in and start connecting with people from all around the globe. Whether it's text, images, or files, ChatApp brings everyone closer together. Enjoy exploring this space where anyone can connect with anyone. Happy chatting! 💬🌐
