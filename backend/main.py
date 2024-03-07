@@ -17,7 +17,7 @@ class User(BaseModel):
     username: str
 
 
-PRIVATE_KEY = "77d37a7f-d879-4222-be23-24ea32a62a0b"
+PRIVATE_KEY = ""
 
 
 @app.post("/authenticate")
