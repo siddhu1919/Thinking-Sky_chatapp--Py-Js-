@@ -45,3 +45,12 @@ pip install -r requirements.txt
 ```bash
 uvicorn main:app --reload --port 3001
 ```
+
+5. **Connect to Chat Engine**: Head over to `main.py` to connect our backend to the Chat Engine.
+- Create a **PRIVATE_KEY** by signing up for a free account at [ChatEngine.io](https://chatengine.io/).
+- Create a project, go to its settings, and copy your Private Key.
+
+### Setting Up the Frontend 🎨
+
+1. **Connect to Chat Engine**: All we need here is to add our Project ID as `VITE_CHAT_ENGINE_PROJECT_ID` within `frontend/.env.local`.
+2. **Create `.env.local` File**: Within the `frontend` directory, create a `.env.local` file and populate it with your project ID like so:
