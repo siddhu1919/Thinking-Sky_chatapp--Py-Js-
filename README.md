@@ -12,9 +12,15 @@ Before diving into the world of endless chatting, make sure you have these tools
 - npm (usually comes with Node.js)
 
 ## Getting Started 🚀
+## 📦 Installation
+
 
 1. **Clone the Repo**: First up, grab a copy of our codebase by cloning this repo to your local machine.
 
+```bash
+git clone https://github.com/siddhu1919/Thinking-Sky_chatapp--Py-Js-.git
+cd Thinking-Sky_chatapp--Py-Js-
+```
 2. **Navigate Through Folders**: You'll find two main directories:
    - `backend`
    - `frontend`
