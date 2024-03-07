@@ -7,6 +7,7 @@ Welcome to our ChatApp, a dynamic platform built with Python and React (JavaScri
 Before diving into the world of endless chatting, make sure you have these tools ready on your machine:
 
 - Python 3.6+
+- RestAPI
 - Node.js
 - vite js
 - npm (usually comes with Node.js)
