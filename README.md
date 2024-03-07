@@ -41,3 +41,7 @@ pip install -r requirements.txt
 ```
 
 4. **Fire Up the Server**: Open a new PowerShell/CMD window in your IDE (VSCode recommended) and launch the server with:
+
+```bash
+uvicorn main:app --reload --port 3001
+```
