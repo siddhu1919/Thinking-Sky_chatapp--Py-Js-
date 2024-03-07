@@ -28,13 +28,13 @@ cd Thinking-Sky_chatapp--Py-Js-
 ### Setting Up the Backend 🛠️
 
 1. **Jump into the Backend**: Navigate to the `backend` folder.
- ![image](https://github.com/siddhu1919/Thinking-Sky_chatapp--Py-Js-/assets/85176765/6aa256f0-218b-410b-bd6c-048ed0688487)
+![image](https://github.com/siddhu1919/Thinking-Sky_chatapp--Py-Js-/assets/85176765/6aa256f0-218b-410b-bd6c-048ed0688487)
 2. **Virtual Environment**: Set up a Python virtual environment to keep things tidy.
-3. ![image](https://github.com/siddhu1919/Thinking-Sky_chatapp--Py-Js-/assets/85176765/5bad9fe0-0638-4e35-9678-b794fce1611d)
-4. **Install Requirements**: Install the Python requirements to get all the necessary packages.
+![image](https://github.com/siddhu1919/Thinking-Sky_chatapp--Py-Js-/assets/85176765/5bad9fe0-0638-4e35-9678-b794fce1611d)
+3. **Install Requirements**: Install the Python requirements to get all the necessary packages.
  
 ```bash
 pip install -r requirements.txt
 ```
 
-5. **Fire Up the Server**: Open a new PowerShell/CMD window in your IDE (VSCode recommended) and launch the server with:
+4. **Fire Up the Server**: Open a new PowerShell/CMD window in your IDE (VSCode recommended) and launch the server with:
